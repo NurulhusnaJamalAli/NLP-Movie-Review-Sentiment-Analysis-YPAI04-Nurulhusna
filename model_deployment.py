@@ -1,8 +1,3 @@
-"""
-Exercise 2 - Multiclass Text Classification for Sentiment Analysis
-Name: Nurulhusna Binti Jamal Ali
-Group: YP AI04
-"""
 
 #%%
 #1. Import packages
